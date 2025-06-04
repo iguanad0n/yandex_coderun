@@ -24,7 +24,7 @@
 
 ## Лёгкая <a name="easy-"></a>
 
-* [200. Разминка](https://coderun.yandex.ru/problem/warm-up/) [machine learning] - [Решение](ML/Easy/200_Разминка.ipynb)
+* [200. Разминка](https://coderun.yandex.ru/problem/warm-up/) [machine learning] - [Решение](Машинное-обучение/Лёгкая/200_Разминка.ipynb)
 
 ## Средняя <a name="medium-"></a>
 
@@ -73,7 +73,7 @@
 
 ## Лёгкая <a name="easy--2"></a>
 
-* [287. Разные цифры](https://coderun.yandex.ru/problem/three-numbers/) [machine learning] - [Решение](Аналитика данных/Лёгкая/287_Разные_цифры.ipynb)
+* [287. Разные цифры](https://coderun.yandex.ru/problem/three-numbers/) [machine learning] - [Решение](Аналитика-данных/Лёгкая/287_Разные_цифры.ipynb)
 
 ## Средняя <a name="medium--2"></a>
 
