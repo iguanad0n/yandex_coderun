@@ -40,19 +40,23 @@
 
 ## Лёгкая <a name="easy--1"></a>
 
-* [12. Длина кратчайшего пути](https://coderun.yandex.ru/problem/shortest-path-length/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/12_Длина_кратчайшего_пути.ipynb)
-* [51. Номер появления слова](https://coderun.yandex.ru/problem/word-appearance-number/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/51_Номер_появления_слова.ipynb)
+* [12. Длина кратчайшего пути](https://coderun.yandex.ru/problem/shortest-path-length/) [bfs] - [Решение](Алгоритмы/Лёгкая/12_Длина_кратчайшего_пути.ipynb)
+* [51. Номер появления слова](https://coderun.yandex.ru/problem/word-appearance-number/) [standard library, dict, counting] - [Решение](Алгоритмы/Лёгкая/51_Номер_появления_слова.ipynb)
 * [52. Словарь синонимов](https://coderun.yandex.ru/problem/dictionary-synonyms/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/52_Словарь_синонимов.ipynb)
-* [54. Полиглоты](https://coderun.yandex.ru/problem/polyglots/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/54_Полиглоты.ipynb)
-* [58. OpenCalculator](https://coderun.yandex.ru/problem/open-calculator/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/58_OpenCalculator.ipynb)
-* [61. Пересечение множеств](https://coderun.yandex.ru/problem/intersection-sets/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/61_Пересечение_множеств.ipynb)
-* [62. Количество различных чисел](https://coderun.yandex.ru/problem/number-different-numbers/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/62_Количество_различных_чисел.ipynb)
-* [64. Сапёр](https://coderun.yandex.ru/problem/sapper/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/64_Сапёр.ipynb)
-* [69. Больше своих соседей](https://coderun.yandex.ru/problem/more-your-neighbors/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/69_Больше_своих_соседей.ipynb)
-* [70. Ближайшее число](https://coderun.yandex.ru/problem/nearest-number/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/70_Ближайшее_число.ipynb)
-* [71. Определить вид последовательности](https://coderun.yandex.ru/problem/determine-type-sequence/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/71_OpenCalculator.ipynb)
+* [54. Полиглоты](https://coderun.yandex.ru/problem/polyglots/) [line handling, set, standard library] - [Решение](Алгоритмы/Лёгкая/54_Полиглоты.ipynb)
+* [58. OpenCalculator](https://coderun.yandex.ru/problem/open-calculator/) [set, standard library] - [Решение](Алгоритмы/Лёгкая/58_OpenCalculator.ipynb)
+* [61. Пересечение множеств](https://coderun.yandex.ru/problem/intersection-sets/) [set, standard library, two pointers] - [Решение](Алгоритмы/Лёгкая/61_Пересечение_множеств.ipynb)
+* [62. Количество различных чисел](https://coderun.yandex.ru/problem/number-different-numbers/) [set, standard library, sort] - [Решение](Алгоритмы/Лёгкая/62_Количество_различных_чисел.ipynb)
+* [64. Сапёр](https://coderun.yandex.ru/problem/sapper/) [implementation] - [Решение](Алгоритмы/Лёгкая/64_Сапёр.ipynb)
+* [69. Больше своих соседей](https://coderun.yandex.ru/problem/more-your-neighbors/) [linear search] - [Решение](Алгоритмы/Лёгкая/69_Больше_своих_соседей.ipynb)
+* [70. Ближайшее число](https://coderun.yandex.ru/problem/nearest-number/) [linear search] - [Решение](Алгоритмы/Лёгкая/70_Ближайшее_число.ipynb)
+* [71. Определить вид последовательности](https://coderun.yandex.ru/problem/determine-type-sequence/) [linear search] - [Решение](Алгоритмы/Лёгкая/71_OpenCalculator.ipynb)
 * [72. Возрастает ли список?](https://coderun.yandex.ru/problem/list-growing/) [linear search] - [Решение](Алгоритмы/Лёгкая/72_Возрастает_ли_список_.ipynb)
-* [72. Возрастает ли список?](https://coderun.yandex.ru/problem/list-growing/) [standard library, dict] - [Решение](Алгоритмы/Лёгкая/72_Возрастает_ли_список_.ipynb)
+* [74. Узник замка Иф](https://coderun.yandex.ru/problem/castle-if/) [implementation] - [Решение](Алгоритмы/Лёгкая/74_Узник_замка_Иф.ipynb)
+* [81. Треугольник](https://coderun.yandex.ru/problem/triangle/) [geometry] - [Решение](Алгоритмы/Лёгкая/81_Треугольник.ipynb)
+* [120. Высота дерева](https://coderun.yandex.ru/problem/tree-height/) [binary search tree] - [Решение](Алгоритмы/Лёгкая/120_Высота_дерева.ipynb)
+* [141. Правильная скобочная последовательность](https://coderun.yandex.ru/problem/correct-bracket-sequence/) [stack] - [Решение](Алгоритмы/Лёгкая/141_Правильная_скобочная_последовательность.ipynb)
+
 
 ## Средняя <a name="medium--1"></a>
 
