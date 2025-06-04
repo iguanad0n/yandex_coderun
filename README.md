@@ -60,14 +60,17 @@
 
 ## Средняя <a name="medium--1"></a>
 
-* [11. Поиск цикла](https://coderun.yandex.ru/problem/cycle-search/) [dfs] - [Solution](Algorithms/Medium/11_cycle_search)
+* [22. Минимум на отрезке](https://coderun.yandex.ru/problem/minimum-of-the-segment/) [deque, heap] - [Решение](Алгоритмы/Средняя/22_Минимум_на_отрезке.ipynb)
+* [59. Количество слов в тексте](https://coderun.yandex.ru/problem/number-words-text/) [line handling, set, standard library] - [Решение](Алгоритмы/Средняя/59_Количество_слов_в_тексте.ipynb)
+* [65. Наибольшее произведение трех чисел](https://coderun.yandex.ru/problem/largest-product-three-numbers/) [sort] - [Решение](Алгоритмы/Средняя/65_Наибольшее_произведение_трех_чисел.ipynb)
+* [66. Наибольшее произведение двух чисел](https://coderun.yandex.ru/problem/largest-product-two-numbers/) [linear search] - [Решение](Алгоритмы/Средняя/66_Наибольшее_произведение_двух_чисел.ipynb)
+* [67. Симметричная последовательность](https://coderun.yandex.ru/problem/symmetric-sequence/) [implementation] - [Решение](Алгоритмы/Средняя/67_Симметричная_последовательность.ipynb)
+* [91. Сумма номеров](https://coderun.yandex.ru/problem/sum-of-numbers/) [two pointers] - [Решение](Алгоритмы/Средняя/91_Сумма_номеров.ipynb)
+* [92. Туризм](https://coderun.yandex.ru/problem/tourism/) [prefix sum] - [Решение](Алгоритмы/Средняя/92_Туризм.ipynb)
 
 ## Сложная <a name="hard--1"></a>
 
 * [11. Поиск цикла](https://coderun.yandex.ru/problem/cycle-search/) [dfs] - [Solution](Algorithms/Medium/11_cycle_search)
 ---
 
-# Problem List - autumn_intern_23 <a name="contest-problems"></a>
 
-* [410. Сложить и вычесть](https://coderun.yandex.ru/problem/calc-expression/) [parsing, strings] - [Solution](autumn_intern_23/410_calc_expression)
-* [404. Книжная полка стажера](https://coderun.yandex.ru/problem/book-shelf/) [dynamic programming] - [Solution](autumn_intern_23/404_book_shelf)
