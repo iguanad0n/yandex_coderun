@@ -4,15 +4,15 @@
 
 - [Решения CodeRun](#coderun-solutions)
   - [Оглавление](#table-of-contents)
-- [Машинное обучение](#ml-problem-list-)
+- [Машинное обучение](#ml-problem-list)
   - [Лёгкая](#easy-)
   - [Средняя](#medium-)
   - [Сложная](#hard-)
-- [Алгоритмы](#problem-list-algorithms-)
+- [Алгоритмы](#problem-list-algorithms)
   - [Лёгкая](#easy--1)
   - [Средняя](#medium--1)
   - [Сложная](#hard--1)
-- [Анализ данных](#problem-list-data-analysis-)
+- [Анализ данных](#problem-list-data-analysis)
   - [Лёгкая](#easy--2)
   - [Средняя](#medium--2)
   - [Сложная](#hard--2)
@@ -24,15 +24,11 @@
 
 ## Лёгкая <a name="easy-"></a>
 
-* [555. Свертка туда и обратно](https://coderun.yandex.ru/problem/bundle-on-fingers/) [implementation] - [Solution](ML/Easy/555_bundle_on_fingers)
+* [200. Разминка](https://coderun.yandex.ru/problem/warm-up/) [machine learning] - [Решение](ML/Easy/200_Разминка.ipynb)
 
 ## Средняя <a name="medium-"></a>
 
-* [209. Перестановки](https://coderun.yandex.ru/problem/permutations/) [probability theory] - [Solution](ML/Medium/209_permutations)
-
-
 ## Сложная <a name="hard-"></a>
-* [384. Звёздные карты 2.0](https://coderun.yandex.ru/problem/star-maps-v2/) - [Solution](ML/Hard/384_star_maps_v2)
 
 ---
 
@@ -70,7 +66,17 @@
 
 ## Сложная <a name="hard--1"></a>
 
-* [11. Поиск цикла](https://coderun.yandex.ru/problem/cycle-search/) [dfs] - [Solution](Algorithms/Medium/11_cycle_search)
+* [77. Улучшение успеваемости](https://coderun.yandex.ru/problem/improving-academic-performance/) [binary search] - [Решение](Алгоритмы/Сложная/77_Улучшение_успеваемости.ipynb)
 ---
 
+# Задания по анализу данных <a name="problem-list-data-analysis"></a>
+
+## Лёгкая <a name="easy--2"></a>
+
+* [287. Разные цифры](https://coderun.yandex.ru/problem/three-numbers/) [machine learning] - [Решение](Аналитика данных/Лёгкая/287_Разные_цифры.ipynb)
+
+## Средняя <a name="medium--2"></a>
+
+
+## Сложная <a name="hard--2"></a>
 
